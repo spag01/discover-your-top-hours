@@ -1,0 +1,51 @@
+manual_rating,domain,visit_count,sample_url,sample_title
+Always Intentional,docs.google.com,76491,https://docs.google.com/document/u/0/create,Untitled document - Google Docs
+Mostly Intentional,mail.google.com,10397,https://mail.google.com/mail/,Inbox (3) - nathantsai28@gmail.com - Gmail
+Neutrel,google.com,8128,https://www.google.com/gmail/,Inbox (3) - nathantsai28@gmail.com - Gmail
+Mostly Distracted,web.whatsapp.com,3401,https://web.whatsapp.com/,(1) WhatsApp
+Mostly Distracted,messenger.com,2289,https://www.messenger.com/t/1453619294691384/,Currently Pausing Messenger
+Mostly Distracted,discord.com,2237,https://discord.com/app,Discord
+Mostly Distracted,linkedin.com,1804,https://linkedin.com/,LinkedIn
+Mostly Intentional,calendar.google.com,1672,https://calendar.google.com/calendar,Google Calendar - Week of 16 October 2022
+Always Intentional,github.com,1531,https://github.com/,GitHub
+Mostly Intentional,drive.google.com,1522,https://drive.google.com/drive/u/0/my-drive,My Drive - Google Drive
+Always Distracted,facebook.com,1411,https://facebook.com/,Facebook
+Mostly Intentional,coursys.sfu.ca,1215,https://coursys.sfu.ca/2022sp-cmpt-353-d1/pages/,CourSys - CMPT 353: Computational Data Science
+Neutrel,ljfdccdjpfjpfjbpdiihanpodilolofh,810,chrome-extension://ljfdccdjpfjpfjbpdiihanpodilolofh/html/pause.html?url=https%3A%2F%2Fwww.youtube.com%2F,Currently Pausing YouTube
+Always Intentional,ticktick.com,805,https://ticktick.com/webapp/#q/all/today/614f5f599c7ea50844438b52,Today - TickTick
+Mostly Intentional,stackoverflow.com,495,https://stackoverflow.com/,"Stack Overflow - Where Developers Learn, Share, & Build Careers"
+Always Intentional,ss.albernirentals.com,487,https://ss.albernirentals.com/,Log in | Smooth Shopping - House of Omeed
+Always Intentional,csil-git1.cs.surrey.sfu.ca,469,https://csil-git1.cs.surrey.sfu.ca/users/sign_in,Sign in · GitLab
+Always Intentional,avlionsauction.com,448,http://avlionsauction.com/,Welcome | Alberni Valley Lions Auction
+Always Distracted,instagram.com,394,https://www.instagram.com/,Instagram
+Neutrel,accounts.google.com,370,https://accounts.google.com/o/oauth2/v2/auth?nonce=be7a58a5-b6a6-49c4-9980-be5024fe2a33&prompt=consent+select_account&state=0b57565a-248a-4746-afde-e01a37678826&redirect_uri=https%3A%2F%2Fbitly.com%2Fa%2Fgoogle-callback&response_type=code&client_id=489890094529-ueegekuf9mubvv4sc6bh57op2rkjok62.apps.googleusercontent.com&scope=openid+profile+email&display=page,Sign in - Google Accounts
+Always Intentional,cs.sfu.ca,336,https://www.cs.sfu.ca/~wsumner/teaching/373,CMPT 373: Software Development Methods
+Always Intentional,drupal.org,332,https://www.drupal.org/project/ckeditor_youtube,CKEditor Youtube | Drupal.org
+Always Intentional,canva.com,307,https://www.canva.com/,Home - Canva
+Mostly Intentional,calendly.com,276,https://calendly.com/,Free Online Appointment Scheduling Software | Calendly
+Neutrel,app.slack.com,273,https://app.slack.com/client/T7RTCDAS2/D02EV6SDDUM/thread/C7R5FM25B-1618586272.198000,Slack | Carol Fedoruk | FaithTech
+Neutrel,googleads.g.doubleclick.net,269,https://googleads.g.doubleclick.net/pagead/viewthroughconversion/995153884/?value=1.00&currency_code=USD&label=OfKoCPXz2VwQ3K_D2gM&guid=ON&script=0,
+Mostly Intentional,go.sfss.ca,257,https://go.sfss.ca/clubs/657/info,SFSS Go
+Mostly Intentional,replit.com,211,https://replit.com/,Home - Replit
+Always Intentional,portalberni.ca,197,https://portalberni.ca/user,User account | City of Port Alberni
+Mostly Intentional,app.bitly.com,176,https://app.bitly.com/bbt2/,Bitly | Link Management
+Neutrel,twitter.com,175,https://twitter.com/home,Home / Twitter
+Always Intentional,sfu.ca,173,https://www.sfu.ca/computing/people/faculty/gregbaker.html,Greg Baker - Computing Science - Simon Fraser University
+Always Intentional,meet.google.com,169,https://meet.google.com/,Google Meet
+Always Intentional,albernicontinuingcare.ca,167,https://albernicontinuingcare.ca/,"Welcome to Alberni-Clayoquot Continuing Care Society (ACCCS) | Alberni-Clayoquot Continuing Care Society | Port Alberni, BC"
+Mostly Intentional,gmail.com,167,https://gmail.com/,Inbox (3) - nathantsai28@gmail.com - Gmail
+Always Intentional,hashilthsa.com,158,https://hashilthsa.com/,Ha-Shilth-Sa | Ha-Shilth-Sa Newspaper
+Neutrel,740e3b98-3832-4229-b30f-da1a6fd944b9.id.repl.co,150,https://740e3b98-3832-4229-b30f-da1a6fd944b9.id.repl.co/,import_data.py - SFU Find Prof Schedules - Replit
+Mostly Intentional,cas.sfu.ca,149,https://cas.sfu.ca/cas/login?service=https%3A%2F%2Fcanvas.sfu.ca%2Flogin%2Fcas,Inbox
+Mostly Intentional,airtable.com,148,https://airtable.com/shrLkzYHjN4xU20nf,Airtable - #HACK2022 Resources
+Always Intentional,thegoodchoice.app:2083,143,"https://thegoodchoice.app:2083/cpsess8265044796/login/?session=thegc:FzAYHJsweRjDqEUV,970b8b0d39a7c7e00660853ec2fad0d0",cPanel - Main
+Always Intentional,vault.sfu.ca,139,https://vault.sfu.ca/,SFU Vault
+Mostly Distracted,youtube.com,138,https://www.youtube.com/watch?v=r30xf9oAEfQ&feature=youtu.be,Data Management for First Nations - YouTube
+Mostly Distracted,photos.google.com,135,https://photos.google.com/?tab=rq&authuser=0&pageId=none,Photos - Google Photos
+Neutrel,bit.ly,134,https://bit.ly/,Bitly | Link Management
+Always Intentional,learning.oreilly.com,131,https://learning.oreilly.com/library/view/The-Pragmatic-Programmer/9780135956977/?ar,"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
+Mostly Intentional,trello.com,130,https://trello.com/,#HACKVAN2021 | Trello
+Always Intentional,catchsalmon-ca.com,127,https://catchsalmon-ca.com/new/wp-login.php,Log In ‹ Slivers Charters Salmon Sports Fishing — WordPress
+Always Intentional,demo.thegoodchoice.app,126,https://demo.thegoodchoice.app/,We help Food Banks Empower Clients | The Good Choice App
+Mostly Intentional,my.freshbooks.com,120,https://my.freshbooks.com/,FreshBooks
+Neutrel,idp.sfu.ca,120,https://idp.sfu.ca/idp/Authn/External?conversation=e1s1,Shibboleth IdP

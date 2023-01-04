@@ -1,0 +1,7 @@
+manual_rating,domain,visit_count,sample_url,sample_title
+Mostly Distracted,netflix.com,12,https://www.netflix.com/search?q=fairy%20t,Netflix
+Always Intentional,accounts.google.com,7,https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1,Gmail: Private and secure email at no cost | Google Workspace
+Mostly Intentional,gmail.com,5,http://gmail.com/,Gmail: Private and secure email at no cost | Google Workspace
+Neutrel,google.com,3,https://www.google.com/gmail/,Gmail: Private and secure email at no cost | Google Workspace
+Always Intentional,cas.sfu.ca,0,https://cas.sfu.ca/cas/login?service=https%3A%2F%2Fcanvas.sfu.ca%2Flogin%2Fcas,Sign In - CAS – Central Authentication Service
+Mostly Distracted,youtube.com,0,https://youtube.com/,youtube.com

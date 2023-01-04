@@ -1,0 +1,51 @@
+manual_rating,domain,visit_count,sample_url,sample_title
+Always Intentional,docs.google.com,3916,https://docs.google.com/document/u/0/,Google Docs
+Mostly Distracted,youtube.com,2996,https://www.youtube.com/,(1) YouTube
+Mostly Intentional,google.com,2792,https://www.google.com/maps,Google Maps
+Neutrel,tab.gladly.io,2029,https://tab.gladly.io/,Tab for a Cause
+Always Intentional,ggbaker.ca,1263,https://ggbaker.ca/data-science/,CMPT 353 Lecture Notes
+Always Intentional,canvas.sfu.ca,913,https://canvas.sfu.ca/login/cas,SFU Multi-Factor Authentication - CAS – Central Authentication Service
+Mostly Intentional,localhost:3000,452,http://localhost:3000/,Save Inn
+Always Intentional,figma.com,368,https://www.figma.com/file/bMYAFkTYFAYASKGl8J3QSJ/SaveInn?node-id=0%3A1,SaveInn – Figma
+Always Intentional,localhost:8888,338,http://localhost:8888/tree?token=922d8950ee426697c6a776a9c23cfd730e187db270d979a0,Home Page - Select or create a notebook
+Always Distracted,ign.com,337,https://www.ign.com/wikis/pokemon-omega-ruby-alpha-sapphire/Mauville_City_Pokemon_Gym,Mauville City Pokemon Gym - Pokemon Omega Ruby and Alpha Sapphire Wiki Guide - IGN
+Neutrel,mail.google.com,301,https://mail.google.com/mail/u/0/?tab=rm&ogbl,Inbox (50) - jgonzalez020801@gmail.com - Gmail
+Always Intentional,coursys.sfu.ca,294,https://coursys.sfu.ca/,CourSys
+Mostly Intentional,cas.sfu.ca,285,https://cas.sfu.ca/cas/login?service=https%3A%2F%2Fcanvas.sfu.ca%2Flogin%2Fcas,SFU Multi-Factor Authentication - CAS – Central Authentication Service
+Mostly Intentional,idp.sfu.ca,241,https://idp.sfu.ca/idp/profile/SAML2/Redirect/SSO?execution=e1s1,SFU Multi-Factor Authentication - CAS – Central Authentication Service
+Mostly Intentional,mail.sfu.ca,200,https://mail.sfu.ca/,SFU Multi-Factor Authentication - CAS – Central Authentication Service
+Mostly Intentional,sims.erp.sfu.ca,180,https://sims.erp.sfu.ca/,goSFU
+Mostly Intentional,myschedule.erp.sfu.ca,161,https://myschedule.erp.sfu.ca/,mySchedule
+Always Distracted,netflix.com,159,https://www.netflix.com/browse,Netflix
+Always Distracted,instagram.com,127,https://www.instagram.com/,Instagram
+Always Intentional,cs.sfu.ca,125,https://www.cs.sfu.ca/~tzwang/teaching/cmpt454-fall22/zoom,Launch Meeting - Zoom
+Mostly Distracted,vidanta.com,124,https://www.vidanta.com/,Vidanta - Vidanta
+Neutrel,accounts.google.com,115,https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fconnect.cineplex.com%3Fid%3Dauth857780&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=816395895908-gr9m8pg2hdeh67uqi0otssaibob6fvh2.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fconnect.cineplex.com&fetch_basic_profile=true&gsiwebsdk=2,Sign in - Google Accounts
+Mostly Distracted,web.whatsapp.com,110,https://web.whatsapp.com/,WhatsApp
+Mostly Intentional,github.com,108,https://github.com/,GitHub
+Always Intentional,stackoverflow.com,99,https://stackoverflow.com/questions/7844460/foreign-key-to-multiple-tables,sql server - Foreign Key to multiple tables - Stack Overflow
+Mostly Intentional,sfu.ca,95,https://www.sfu.ca/students/calendar/2021/spring/programs/computing-science/major/bachelor-of-science-or-bachelor-of-arts.html,Computing Science Major (Bachelor of Science or Bachelor of Arts) - Spring Calendar - Simon Fraser University
+Mostly Intentional,cheaptickets.com,87,https://www.cheaptickets.com/,"CheapTickets: Cheap Flights, Hotel Deals & Vacation Packages"
+Mostly Intentional,fs.sfu.ca,79,https://fs.sfu.ca/adfs/ls/,Working...
+Mostly Intentional,skyscanner.ca,78,https://www.skyscanner.ca/,Skyscanner
+Always Intentional,pandas.pydata.org,77,https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.min.html,pandas.DataFrame.min — pandas 1.5.0 documentation
+Mostly Intentional,athleticsandrecreation.its.sfu.ca,69,https://athleticsandrecreation.its.sfu.ca/Program/GetProducts?classification=cdef7ef9-6eb9-4514-b25d-31876000ac06&category=43b1595e-ef1f-4824-bf16-bf01af68814d,Search Programs - Fusion Member Portal
+Mostly Distracted,amazon.com.mx,58,https://www.amazon.com.mx/Proteina-Chocolate-Prote%C3%ADna-Amaranto-Ch%C3%ADcharo/dp/B083QNDJH4,"Proteina Vegana Vegan Protein Mix Sabor Chocolate. Proteína de Arroz, Amaranto, Chícharo y Hemp. 900 gramos (1.8 libras) : Amazon.com.mx: Salud y Cuidado Personal"
+Always Intentional,piazza.com,56,https://piazza.com/class,https://piazza.com/class
+Always Distracted,ratemyprofessors.com,54,https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2637404,Connie Liu at Simon Fraser University - RateMyProfessors.com
+Always Intentional,www-jstor-org.proxy.lib.sfu.ca,54,https://www-jstor-org.proxy.lib.sfu.ca/stable/4166063?refreqid=excelsior%3A05f54efb81dcb5bdd447493e7c6d3b2b&seq=1#metadata_info_tab_contents,Managing to Be Ethical: Debunking Five Business Ethics Myths [and Executive Commentary] on JSTOR
+Mostly Intentional,,53,file:///C:/Users/juang/OneDrive/Desktop/Documents/Co-op_WorkPermit.pdf,Co-op_WorkPermit.pdf
+Always Distracted,geoguessr.com,50,https://www.geoguessr.com/,GeoGuessr - Let's explore the world!
+Always Intentional,sfu.zoom.us,44,https://sfu.zoom.us/j/2045206932,Launch Meeting - Zoom
+Always Distracted,pokemondb.net,38,https://pokemondb.net/pokedex/meditite,"Meditite Pokédex: stats, moves, evolution & locations | Pokémon Database"
+Neutrel,inm.gob.mx,37,https://www.inm.gob.mx/spublic/portal/inmex.html,INM - SIIM
+Always Intentional,docs.oracle.com,33,https://docs.oracle.com/cd/E14373_01/user.32/e13370/sql_rep.htm,Using SQL Scripts
+Always Distracted,brainfall.com,32,https://brainfall.com/quizzes/which-hogwarts-house-would-you-be-in/,Harry Potter House Quiz: Which Hogwarts House Would You Be In? | BrainFall
+Always Intentional,numpy.org,31,https://numpy.org/doc/stable/reference/generated/numpy.sin.html,numpy.sin — NumPy v1.23 Manual
+Always Intentional,quora.com,31,https://www.quora.com/How-many-cycles-of-length-4-edges-are-in-the-complete-graph-K5-Note-the-cycle-1-2-3-4-1-is-the-same-cycle-as-2-3-4-1-2,How many cycles of length 4 edges are in the complete graph K5? Note: the cycle 1-2-3-4-1 is the same cycle as 2-3-4-1-2 - Quora
+Neutrel,chrome.google.com,31,https://chrome.google.com/webstore/detail/cmedhionkhpnakcndndgjdbohmhepckk/reviews,Adblock for Youtube™ - Chrome Web Store
+Always Intentional,geeksforgeeks.org,30,https://www.geeksforgeeks.org/sql-division/,SQL | DIVISION - GeeksforGeeks
+Always Intentional,ca.bbcollab.com,30,https://ca.bbcollab.com/collab/ui/session/playback,Bb Collaborate - Lecture Recordings - recording_22
+Always Intentional,w3schools.com,28,https://www.w3schools.com/sql/sql_select.asp,SQL SELECT Statement
+Mostly Intentional,sims.sfu.ca,28,https://sims.sfu.ca/psc/csprd/EMPLOYEE/SA/s/WEBLIB_SFU.ISCRIPT1.FieldFormula.IScript_CASSignin,goSFU
+Neutrel,cineplex.com,26,https://www.cineplex.com/,"Cineplex.com | Movies, Showtimes, Tickets, Trailers"

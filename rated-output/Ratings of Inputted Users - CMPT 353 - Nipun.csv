@@ -1,0 +1,51 @@
+manual_rating,domain,visit_count,sample_url
+Mostly Intentional,docs.google.com,605,https://docs.google.com/document/u/0/?tgif=d
+Mostly Distracted,google.com,360,https://www.google.com/search?client=safari&rls=en&q=install+chrome+in+mac&ie=UTF-8&oe=UTF-8
+Always Intentional,github.com,311,https://github.com/tomliangg/Intro_to_Data_Science/blob/master/monthdata.npz
+Mostly Distracted,google.co.in,204,https://www.google.co.in/search?q=purple+heart+movie&ie=UTF-8&oe=UTF-8&hl=en-in&client=safari
+Mostly Intentional,us06web.zoom.us,144,https://us06web.zoom.us/j/3720851159
+Mostly Distracted,youtube.com,109,https://www.youtube.com/watch?v=Rqo2TQW_mx8
+Mostly Intentional,cloud.mongodb.com,101,https://cloud.mongodb.com/user?_ga=2.246011972.1911902061.1665495530-1553414783.1665495530
+Always Distracted,amazon.in,97,https://www.amazon.in/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.in%2FremoteKYC%3FclientId%3DINPRIMEYA%26ref%3Dya_kyc_reminder_email_quarterly_t1%26ref_%3Dpe_3498761_456419511&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_kyc_in&openid.mode=checkid_setup&marketPlaceId=A21TJRUUN4KGV&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_kyc_in&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D261-5677015-6537612%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.in%252FremoteKYC%253FclientId%253DINPRIMEYA%2526ref%253Dya_kyc_reminder_email_quarterly_t1%2526ref_%253Dpe_3498761_456419511%2Csignature%3Dnull
+Neutrel,bing.com,93,https://www.bing.com/search?q=iphone+7+price&form=APIPH1&PC=APPL
+Mostly Intentional,web.whatsapp.com,57,https://web.whatsapp.com/
+Mostly Distracted,sfu.zoom.us,56,https://sfu.zoom.us/j/64741735984?pwd=R0JWbHg4cnFVZ3dXYUlZMlM4TDhQUT09
+Neutrel,localhost:8888,49,http://localhost:8888/tree?token=4ec8175239a1e685f89f7a46232f5e23ed318ecacf0b320a
+Neutrel,us04web.zoom.us,48,https://us04web.zoom.us/j/4430929377?pwd=YUxERm9hT0IxUVBvT091eGNzOVBkUT09
+Mostly Intentional,netbanking.kotak.com,48,https://netbanking.kotak.com/knb2/
+Neutrel,accounts.google.com,41,https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser
+Mostly Distracted,codeforces.com,35,http://codeforces.com/
+Always Distracted,instagram.com,33,https://www.instagram.com/
+Mostly Intentional,support.apple.com,33,https://support.apple.com/en-in/guide/ipad/ipadae9bab3e/ipados
+Mostly Intentional,meet.google.com,30,https://meet.google.com/zjm-rncm-zvo
+Mostly Distracted,coursys.sfu.ca,29,https://coursys.sfu.ca/2022fa-cmpt-353-d1/pages/Exercise2
+Mostly Intentional,sbicard.com,26,https://sbicard.com/track-app/Y/2524408034584
+Mostly Distracted,localhost:3000,22,http://localhost:3000/
+Neutrel,en.wikipedia.org,21,https://en.wikipedia.org/wiki/Cmd.exe
+Mostly Intentional,nextjs.org,20,https://nextjs.org/docs/deployment
+Mostly Intentional,stackoverflow.com,17,https://stackoverflow.com/questions/28280082/can-i-program-in-c-sharp-on-a-mac
+Neutrel,login.live.com,17,https://login.live.com/oauth20_authorize.srf?client_id=77f68844-337b-4044-a0d4-153795cf9153&scope=openid+profile&redirect_uri=https%3a%2f%2fsetup.office.com%2fsignin-oidc&response_type=id_token&state=CfDJ8Iny2OQBG0BDp31KFnvRAAU6XoQ4WD1dHsJyVSRRmQ-cd8tixLtiGqOYU3i3kADfcZyh_VfKViQBQJiCdIsS5R7dz09rgInuvKqHsOQUCvEBuD47WXf6eHU4c434tpib0Ykk-HHemMbu2zPGJ4086RzxdV1rFQtrarxE_Te7NGIKtAaBYFiSRJPTHxtmw46i3G6KGpJeUO2DR0A2QHrGNr9z3Wbcqa0EmSxiiiHA7U1DNtuBkDKsvGXP8wbAVj8NzIhBTKMacwgqetwFPdL7K-IPeTpMtq8N4OVXYyaJ875UNpeNNNClabcefDe0klGipkAiV0JvGJnAQ74RRz0lN3siy5OyR8Eh9vDepGCHeFKbcJlgRcMX5ghlhMkdbKWE8nX_2aMjFXG4_47LiNSR1ik&response_mode=form_post&nonce=637989550135985793.NTkzNGQwYTgtMTliNi00MDRlLWFhMjktOTk2NzAwNjI0NjRiNTdlZTgwM2MtNDQ2NS00M2RkLWE1YWQtYzdlM2U4OGQ1ZTEz&x-client-SKU=ID_NET6_0&x-client-Ver=6.20.0.0&uaid=9daefc144086443c918823b046c48c39&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-IN&client_info=1&epct=AQABAAAAAAD--DLA3VO7QrddgJg7WevrTISlPLN8L2d43CXbLXdKJf_lM-IzAMizvi6-PbWiciq_TlaRDq3mSKnRRVFeQISjB6IEhdY3JNqyApKf4TLlwwRMUUT18yDpaNT4TpvUj1Zp7hon8LuUC2LHPu_EvtHJ2MoOowBmzvjkOUph2RxRJm5nDct7CAkYPF1-66tpZmROOqwCa3JlthprHWnKvcYwWD8ZT_ep8woNpmnB0vNMoyAA&jshs=0#
+Neutrel,josaa.nic.in,16,https://josaa.nic.in/
+Neutrel,apple.com,15,https://www.apple.com/in/batteries/maximizing-performance/
+Mostly Intentional,drive.google.com,13,https://drive.google.com/drive/folders/1OZx4oPw-yhF_JY5bNvZ-a5nRzx0fOruA?usp=sharing
+Mostly Intentional,geeksforgeeks.org,13,https://www.geeksforgeeks.org/conversion-whole-string-uppercase-lowercase-using-stl-c/
+Neutrel,omni.axisbank.co.in,11,https://omni.axisbank.co.in/axisretailbanking/?_ga=2.246416388.1266379564.1664017090-1207630511.1664017090
+Mostly Intentional,localhost:8889,11,http://localhost:8889/tree?token=0a8da3b89ec45486d87c6dde09c6c76857af14d8d6be0d96
+Neutrel,replit.com,10,https://replit.com/@NipunSingla/VitalQuarterlyMarketing#main.cpp
+Neutrel,reddit.com,10,https://www.reddit.com/r/ipad/comments/b84xxz/13_best_use_cases_for_ipad_crowdsourcing_this_to/
+Always Distracted,hotstar.com,9,https://www.hotstar.com/
+Mostly Intentional,account.mongodb.com,9,https://account.mongodb.com/account?_ga=2.246011972.1911902061.1665495530-1553414783.1665495530
+Neutrel,identity.getpostman.com,9,https://identity.getpostman.com/client-auth/confirm?auth_challenge=0d4610414cb1ac82d0488634b507a0a695b81349bfd9e303c20e8db11e012e1e&auth_device=app_native&auth_device_version=9.31.0
+Mostly Distracted,flipkart.com,9,https://www.flipkart.com/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg
+Mostly Intentional,gmail.com,9,https://mail.google.com/
+Neutrel,kayak.co.in,9,"https://www.kayak.co.in/tweb/hotels/Mohali,PB,India-c306276/2022-09-22/2022-09-23/2adults?lang=en&utm_campaign=kayak&utm_content=ExactMatch%20-%20kayak&utm_medium=cpc&utm_source=bing&utm_term=kayak&skipapp=true"
+Neutrel,quora.com,8,https://www.quora.com/What-are-primary-and-other-major-use-cases-for-the-iPad
+Mostly Distracted,open.spotify.com,8,https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1?si=18RticabSei0v9mS--hsPg&utm_source=copy-link&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA8WOawuCMBSGf838ppZKN5AIyvBDUCpdPsmcU5dzG7sE%2FvtmEP2E4MCB877P4em0Fmrj%2B0pwTZrRg0J4lLDe3wrJa4N0zAVmDgiixlBaGknjbkJAuANBYmeKvS%2BN%2BGBPWkLU2x1d76kcL6ebSOtj%2B8iiQj6LOQgTRUC4n68yTRCsckxmr%2FWQu26nzi0IFkYPpeJGImxbiIvRnYQ%2BCpDSyv7%2Bo4YNWD1hDlgeUAcZwzT%2BSTYYaiNxzGULGUFvZzV2sV4BAAA%3D&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F4VXIryQMWpIdGgYR4TrjT1%3Fsi%3D18RticabSei0v9mS--hsPg%26utm_source%3Dcopy-link&~channel=copy-link&feature=organic&_branch_match_id=1099617853389977377
+Mostly Distracted,primevideo.com,8,https://www.primevideo.com/region/eu/ontv/code?code=LZLRY6&ref_=atv_auth_red_aft
+Mostly Intentional,console.firebase.google.com,8,https://console.firebase.google.com/
+Mostly Intentional,kotak.com,7,http://www.kotak.com/
+Mostly Intentional,gist.github.com,7,https://gist.github.com/yanofsky/5436496
+Always Distracted,music.youtube.com,7,https://music.youtube.com/
+Neutrel,nurserylive.com,7,https://nurserylive.com/pages/support-urban-plantation-drive-get-6-nasa-indoor-plants-free#f2861036
+Neutrel,discussions.apple.com,7,https://discussions.apple.com/thread/253371879
+Mostly Intentional,docs.microsoft.com,7,https://docs.microsoft.com/en-in/legal/microsoft-365/mde-terms-windows?context=context%2Fchromeless
